@@ -39,5 +39,3 @@ Combining predictive accuracy with interpretability ensures both operational ben
 This project demonstrates that product returns in e-commerce can be predicted with meaningful accuracy using supervised learning methods. Logistic Regression emerged as the most practical model, offering both strong predictive power and interpretability. KNN, while competitive, highlighted the trade-offs involved in parameter-sensitive approaches.  
 
 The insights generated from this analysis have direct implications for inventory management, logistics optimization, and customer satisfaction strategies. By embedding predictive insights into day-to-day operations, e-commerce firms can reduce the financial burden of returns while strengthening customer loyalty and trust.  
-
-## Repository Structure
